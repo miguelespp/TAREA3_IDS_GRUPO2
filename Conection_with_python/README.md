@@ -1,16 +1,19 @@
-Se crea un entorno virtual introduciendo el comando 
-python -m venv venv
+Instrucciones 
+--------------------------
 
-Nos posisionamos en la carpeta del entorno virtual con
-cd venv/Scripts
+1. Se crea un entorno virtual introduciendo el comando  
+```python -m venv venv```
 
-activamos el entorno virtual a traves del comando
-.\activate
+2. Nos posisionamos en la carpeta del entorno virtual con  
+```cd venv/Scripts```
 
-Retrocedemos a la carpeta Conection_with_python
-cd ../..
+3. Activamos el entorno virtual a traves del comando  
+```.\activate```
 
-Instalamos los paquetes indicados en requerimientos.txt
-pip install -r requerimientos.txt
+4. Retrocedemos a la carpeta Conection_with_python  
+```cd ../..```
+
+5. Instalamos los paquetes indicados en requerimientos.txt  
+```pip install -r requerimientos.txt```
 
 Y finalmente ejecutamos
