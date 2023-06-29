@@ -2,7 +2,7 @@ Instrucciones
 --------------------------
 
 1. Se crea un entorno virtual introduciendo el comando  
-```python -m venv venv```
+```py -m venv venv```
 
 2. Nos posisionamos en la carpeta del entorno virtual con  
 ```cd venv/Scripts```
